@@ -11,8 +11,8 @@
 
 - 👨‍💻 All of my projects [https://einargatc.github.io/Einar-Portfolio/](https://einargatc.github.io/Einar-Portfolio/)
 
-- 📝 I regularly read [Technical blogs about ML research findings and development best practices](Technical blogs about ML research findings and development best practices)
-
+- 📝 I regularly read Technical blogs about ML research findings and development best practices
+  
 - 💬 Ask me about **Machine learning, React development, Python optimization, and building RESTful APIs**
 
 - 📫 How to reach me **einar.gatchalian@gmail.com**
