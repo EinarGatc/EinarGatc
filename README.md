@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **einar.gatchalian@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/egatchal/overlay/1751077891458/single-media-viewer?type=DOCUMENT&profileId=ACoAADgh8PUB_n2tSFGF9fcUeFza2OR15-d_ABc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bqu5UUzVEQrab4HS3OpAS%2Bg%3D%3D](https://www.linkedin.com/in/egatchal/overlay/1751077891458/single-media-viewer?type=DOCUMENT&profileId=ACoAADgh8PUB_n2tSFGF9fcUeFza2OR15-d_ABc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bqu5UUzVEQrab4HS3OpAS%2Bg%3D%3D)
+- 📄 Know about my experiences [www.linkedin.com/in/egatchal](www.linkedin.com/in/egatchal)
 
 - ⚡ Fun fact **I've traveled across three continents and believe the best way to master technology is through the cycle of research, implementation, and teaching!**
 
